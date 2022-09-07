@@ -1,0 +1,1 @@
+ipympl # For notebooks to be interactive using %matplotlib widget in VS Code
